@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# Netflix Movies and TV Shows Data Analysis using Power-BI
 
 ![](https://github.com/vidyaVirgo1994/Netflix-Dashboard/blob/main/Netflix%20jpeg.jpg)
 
