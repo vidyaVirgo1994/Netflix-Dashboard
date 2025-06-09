@@ -17,7 +17,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 The data for this project is sourced from the Kaggle dataset
 
 ## Screenshots / Demos
- ![Dashboard Preview](https://github.com/vidyaVirgo1994/E-Commerce-Sales/blob/main/Snapshoot%20of%20Sales%20Dashboard.JPG)
+ ![Dashboard Preview](https://github.com/vidyaVirgo1994/Netflix-movies-and-TV-shows-data-analysis---Power-BI/blob/main/Snapshoot%20of%20Netflix%20Shows%20Dashboard.JPG)
 
 
 
